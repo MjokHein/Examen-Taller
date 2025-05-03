@@ -1,0 +1,7 @@
+E:\Repositorios\Examen\bin\Debug\Examen.exe.config
+E:\Repositorios\Examen\bin\Debug\Examen.exe
+E:\Repositorios\Examen\bin\Debug\Examen.pdb
+E:\Repositorios\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+E:\Repositorios\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+E:\Repositorios\Examen\obj\Debug\Examen.exe
+E:\Repositorios\Examen\obj\Debug\Examen.pdb
